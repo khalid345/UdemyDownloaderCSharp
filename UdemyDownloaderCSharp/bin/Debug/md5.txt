@@ -1,0 +1,6 @@
+MD5 (aria2c.exe) = 22f2317acb8e0d358d050f7aa3eeb394
+MD5 (curl.exe) = 6149af05ad1f5984ccc38a7a38e5127e
+MD5 (ffmpeg.exe) = 1cccca609c65f4034e6ad610ad921716
+MD5 (udemy-dl.exe) = 2872642754d465516de67d66a39a2b7c
+MD5 (wget.exe) = 78c1d46f19ef98dc760e7c40f14ee242
+MD5 (youtube-dl.exe) = b0a659caf60404deba5f3f85ec244bd6
